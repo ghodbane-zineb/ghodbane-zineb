@@ -19,14 +19,12 @@ Tools & Platforms: MAMP, GitHub, Docker, MS Project, Gantt
 ### 🌱 Let's Connect!
 
 <p align="center">
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:lz_ghodbane@esi.dz">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/zineb-ghod/">
+  <a href="https://www.linkedin.com/in/zineb-ghodbane-199504289/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/zinebghod">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
-  </a>
+
 </p>
 
