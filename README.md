@@ -19,7 +19,7 @@ Tools & Platforms: MAMP, GitHub, Docker, MS Project, Gantt
 ### 🌱 Let's Connect!
 
 <p align="center">
-  <a href="mailto:lz_ghodbane@esi.dz">
+  <a href="lz_ghodbane@esi.dz">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/zineb-ghodbane-199504289/">
