@@ -12,7 +12,7 @@
 Databases:         Oracle, MongoDB, MySQL  
 Languages:         Python, C, PHP, JavaScript  
 Web Development:   React, Node.js, HTML/CSS  
-Tools & Platforms: MAMP, GitHub, Docker, MS Project, Gantt  
+Tools & Platforms: MAMP, GitHub, Docker, MS Project
 ```
 ---
 
